@@ -9,12 +9,12 @@ sum = 0
 #Enter the value of x
 x = input("Enter X : ")
 #Enter the value of y
-y = input("Enter Y : ")
+y = input("Enter Y : 
 
 #converting x to integer (type casting)
 x = int(x)
 #converting y to integer (type casting)
-y = int(y)
+y = int(y
 
 #storing the result 
 sum = x + y
